@@ -1,0 +1,25 @@
+body {
+  background-color: #ffe6cc;
+}
+
+#source-link {
+  font-size: 40px;
+  text-decoration: none;
+  color: pink;
+}
+
+a:link {
+  font-size: cursive;
+  color: #FF1493;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+  font-size: 55px;
+  color: #FF1493;
+}
+
+h2 {
+  font-family: cursive;
+}
